@@ -376,7 +376,7 @@ GitHub repository: printf
 
    
 
-14. The flood of print has turned reading into a process of gulping rather than savoring
+14. The flood of print has turned reading into a process of gulping rather than savoring. I like Ope because she is dilligent
 
 #advanced
 
